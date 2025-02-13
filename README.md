@@ -13,7 +13,7 @@ and maybe start our path on the tech world.
 ## Credits
 
 * [Rynilan](https://github.com/Rynilan/)  
-* [PAULO GABRIEL DA LUZ](https://github.com/DRXMORENO/)  
+* [PAULO GABRIEL](https://github.com/DRXMORENO/)  
 * [mps](https://github.com/mps192004/)  
 * [Josias Aragão](https://github.com/JosiasAragao/)   
 * [Crystian](https://github.com/CrystianSantos/)  
