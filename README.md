@@ -12,12 +12,10 @@ and maybe start our path on the tech world.
 
 ## Credits
 
-* [Rynilan (myself)](https://github.com/Rynilan/)  
+* [Rynilan](https://github.com/Rynilan/)  
 * [PAULO GABRIEL DA LUZ](https://github.com/DRXMORENO/)  
 * [mps](https://github.com/mps192004/)  
-* [Josias Aragão](https://github.com/JosiasAragao/)  
-* [LuizAntonioLz](https://github.com/LuizAntonioLz/)  
+* [Josias Aragão](https://github.com/JosiasAragao/)   
 * [Crystian](https://github.com/CrystianSantos/)  
 * [Luiz Felype](https://github.com/21Lulz's/)
 * [rodrigo_silva_ofc81](https://github.com/RdSilva222/)
-* [Roberta Tauane](https://github.com/ro558/)
