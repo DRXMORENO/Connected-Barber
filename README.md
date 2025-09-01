@@ -12,7 +12,4 @@ and maybe start our path on the tech world.
 
 ## Credits
 
-* [PAULO GABRIEL DA LUZ](https://github.com/DRXMORENO/)  
-* [Josias Aragão](https://github.com/JosiasAragao/)  
-* [Crystian](https://github.com/CrystianSantos/)  
-* [rodrigo_silva_ofc81](https://github.com/RdSilva222/)
+* [PAULO GABRIEL DA LUZ](https://github.com/DRXMORENO/)
